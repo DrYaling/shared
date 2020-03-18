@@ -1,0 +1,14 @@
+{
+    "host_addr": "0.0.0.0:60202",
+    "redis_url": "redis://10.33.250.240/",
+    "redis_password": "sxzhibo20091209",
+    "import_url": "redis://10.33.250.240:10001/",
+    "import_password": "sxzhibo20091209",
+    "stream_url": "redis://10.33.250.240/",
+    "stream_password": "sxzhibo20091209",
+    "stream_group": "default",
+    "db_tenant": "mysql://shby:Shbyd101@qq.com@10.33.250.20:3306/shby_db_tenant",
+    "my_agent": "mysql://shby:Shbyd101@qq.com@10.33.250.20:3306/shby_db_agma",
+    "my_policy": "mysql://shby:Shbyd101@qq.com@10.33.250.20:3306/shby_db_policy",
+    "db_product": "mysql://shby:Shbyd101@qq.com@10.33.250.20:3306/shby_db_product"
+}

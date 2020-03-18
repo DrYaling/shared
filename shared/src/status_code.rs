@@ -1,0 +1,10 @@
+pub static STATUS_SUCCESS:i32 = 200;
+pub static STATUS_UNKNOW_ERROR:i32 = 201;
+pub static STATUS_UNSUPPORTED_ERROR:i32 = 202;
+pub static STATUS_NO_SHOPID:i32 = 203;
+pub static STATUS_NO_TENTID:i32 = 204;
+pub static STATUS_NO_PRODUCTNAME:i32 = 205;
+pub static STATUS_NO_IMPORT_FAIL:i32 = 206;
+pub static STATUS_NEED_SKU:i32 = 207;
+pub static STATUS_NO_PRODUCTID:i32 = 208;
+pub static STATUS_NO_PRODUCERTID:i32 = 209;
